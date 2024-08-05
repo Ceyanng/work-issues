@@ -5,7 +5,7 @@
 # VC插件
 ## QtforVS2015
 ## Visual Assist X 提高window c++编程效率
-## IncrediBuild
+## IncrediBuild 分布式编译，提高编译速度
 
 # 质量软件
 ## runTest
